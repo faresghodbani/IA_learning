@@ -149,3 +149,4 @@ diagnostic(covid19) :-  % alternative pour symptomes plus legers
 
 
 
+
