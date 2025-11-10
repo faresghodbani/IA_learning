@@ -1,0 +1,89 @@
+﻿Introduction à l’Intelligence Artificielle
+TD5 : Règles d’association
+
+Temps d'exécution : 0.0351 secondes
+
+Règle : {'access'} => {'control'}
+Support : 0.010040160642570281
+Confiance : 0.8333333333333333
+Lift : 55.33333333333333
+------
+
+Règle : {'argument'} => {'mining'}
+Support : 0.01104417670682731
+Confiance : 0.7857142857142858
+Lift : 27.94897959183674
+------
+
+Règle : {'consensus'} => {'clustering'}
+Support : 0.01104417670682731
+Confiance : 1.0
+Lift : 45.27272727272727
+------
+
+Règle : {'conference'} => {'proceedings'}
+Support : 0.014056224899598393
+Confiance : 0.7777777777777778
+Lift : 40.771929824561404
+------
+
+Règle : {'proceedings'} => {'conference'}
+Support : 0.014056224899598393
+Confiance : 0.7368421052631579
+Lift : 40.771929824561404
+------
+
+Règle : {'linked'} => {'data'}
+Support : 0.05120481927710843
+Confiance : 0.8947368421052632
+Lift : 7.682395644283122
+------
+
+Règle : {'internet'} => {'things'}
+Support : 0.010040160642570281
+Confiance : 0.9090909090909091
+Lift : 56.59090909090909
+------
+
+Règle : {'natural'} => {'language'}
+Support : 0.013052208835341365
+Confiance : 0.9285714285714285
+Lift : 26.424489795918365
+------
+
+Règle : {'machine'} => {'learning'}
+Support : 0.013052208835341365
+Confiance : 1.0
+Lift : 22.636363636363637
+------
+
+Règle : {'product'} => {'software'}
+Support : 0.013052208835341365
+Confiance : 0.9285714285714285
+Lift : 33.03061224489796
+------
+
+Règle : {'query'} => {'sparql'}
+Support : 0.012048192771084338
+Confiance : 0.8571428571428572
+Lift : 32.83516483516484
+------
+
+Règle : {'international', 'conference'} => {'proceedings'}
+Support : 0.010040160642570281
+Confiance : 0.8333333333333333
+Lift : 43.68421052631578
+------
+
+Règle : {'proceedings', 'conference'} => {'international'}
+Support : 0.010040160642570281
+Confiance : 0.7142857142857143
+Lift : 37.44360902255639
+------
+
+Règle : {'proceedings', 'international'} => {'conference'}
+Support : 0.010040160642570281
+Confiance : 1.0
+Lift : 55.333333333333336
+------
+
